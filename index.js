@@ -32,4 +32,8 @@ function tailsNeverFails() {
     counter++;
   }
   return `You got ${counter++} tails in a row!`;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8123e3959ce36dbf3579c99b0b61e9e2eea6d5c1
